@@ -96,12 +96,12 @@ Ensure you have the following installed before proceeding:
 ## Preview
 <table>
   <tr>
-    <td><img src="https://github.com/tuongioe/WEARWELL/blob/main/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202024-08-28%20lu%CC%81c%2019.56.25.png?raw=true" alt="mockup" /></td>
-    <td><img src="https://github.com/tuongioe/WEARWELL/blob/main/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202024-08-28%20lu%CC%81c%2020.00.59.png?raw=true" alt="mockups" /></td>
+    <td><img src="https://res.cloudinary.com/ddwkzkht5/image/upload/v1756442918/Picture1_t2wms0.png" alt="mockup" /></td>
+    <td><img src="https://res.cloudinary.com/ddwkzkht5/image/upload/v1756442919/Picture2_mxubeg.png" alt="mockups" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tuongioe/WEARWELL/blob/main/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202024-08-28%20lu%CC%81c%2020.01.46.png?raw=true" alt="mockup" /></td>
-    <td><img src="https://github.com/tuongioe/WEARWELL/blob/main/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202024-08-28%20lu%CC%81c%2020.02.34.png?raw=true" alt="mockups" /></td>
+    <td><img src="https://res.cloudinary.com/ddwkzkht5/image/upload/v1756442919/Picture3_lq7pqg.png" alt="mockup" /></td>
+    <td><img src="https://res.cloudinary.com/ddwkzkht5/image/upload/v1756442919/Picture4_mb5qqh.png" alt="mockups" /></td>
   </tr>
 </table>
 
